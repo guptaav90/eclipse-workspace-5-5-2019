@@ -13,7 +13,7 @@ public abstract  class A { /*1.If you declare abstract method in a class, then t
 	
 	public void Neft() {//This is non abstract method
 		
-		System.out.println("NEFT METHOD");
+		System.out.println("neft method");
 		
 	}
 		
