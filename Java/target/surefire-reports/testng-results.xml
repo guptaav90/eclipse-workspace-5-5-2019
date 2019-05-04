@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16355" started-at="2019-05-03T17:31:18Z" finished-at="2019-05-03T17:31:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16355" started-at="2019-05-03T17:31:18Z" finished-at="2019-05-03T17:31:34Z">
+      <class name="FileUpload.FileUpload">
+        <test-method status="PASS" signature="f()[pri:0, instance:FileUpload.FileUpload@458ad742]" name="f" duration-ms="16325" started-at="2019-05-03T23:01:18Z" finished-at="2019-05-03T23:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- FileUpload.FileUpload -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
